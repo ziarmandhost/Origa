@@ -9,7 +9,7 @@ Mobile application for ordering. Made by David Ziarmand for the women's clothing
 
 The application is not perfect, since there was no UI / UX designer, but it is workable and does not look so bad :)
 
-## [Link to download](./android_build.7z)[  this version just for Android]
+## [Link to download](./android_build.7z)  [this version just for Android]
 
 ## License
 EasyGraphJS is [MIT licensed](./LICENSE).

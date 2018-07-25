@@ -1,0 +1,12 @@
+{
+    "expo": {
+        "name": "OrigaUA",
+        "icon": "assets/images/icon.png",
+        "version": "1.0.0",
+        "slug": "slugenameorigaua",
+        "sdkVersion": "27.0.0",
+        "android": {
+            "package": "com.origaua.origauaname"
+        }
+    }
+}

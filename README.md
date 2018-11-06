@@ -12,5 +12,5 @@ The application is not perfect, since there was no UI / UX designer, but it is w
 ## [Link to download](./android_build.7z)  [this version just for Android]
 
 ## License
-EasyGraphJS is [MIT licensed](./LICENSE).
+This application is [MIT licensed](./LICENSE).
 Copyright (c) 2018-present, David Ziarmand
